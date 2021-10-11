@@ -1,0 +1,4 @@
+//this to tell vs code to treat this project as a JS project, therefore this will fix auto-import modules
+{
+    "exclude": ["node_modules"]
+}
